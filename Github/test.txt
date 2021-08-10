@@ -1,2 +1,1 @@
-git merge test
-git finish
+start
