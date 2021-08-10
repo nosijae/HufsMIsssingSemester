@@ -1,3 +1,2 @@
-hufs missing semester
-git branch master conflict
-git branch test1
+git merge test
+git finish
